@@ -26,5 +26,5 @@ sudo systemctl stop <servicename>
 ### git
 command | purpose
 --- | ---
-`git commit -b <name>/<feature>` | creates branch 
+`git checkout -b <name>/<feature>` | creates branch 
 `git checkout <branch name>` | moves you to that branch
